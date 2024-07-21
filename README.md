@@ -4,10 +4,11 @@ A simple banking system implemented in Python.
 This project provides a basic banking system that allows users to create accounts, deposit money, withdraw cash, and view their account details. The system uses a simple text-based interface and stores customer information in memory.
 
 <h3>Features</h3>
-<li>
-  Create a new account with a unique PIN
-  Deposit money into an existing account
-  Withdraw cash from an existing account 
-  View account details, including balance and PIN
+<ol>
+<li> Create a new account with a unique PIN</li>
+<li> Deposit money into an existing account</li>
+<li> Withdraw cash from an existing account</li>
+<li>View account details, including balance and PIN</li>
 </li>
+</ol>
 
