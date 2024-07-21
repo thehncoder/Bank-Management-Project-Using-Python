@@ -12,3 +12,7 @@ This project provides a basic banking system that allows users to create account
 </li>
 </ol>
 
+<h1>Requiremnets</h1>
+<ol>
+  <li>Python 3.x(tested on Python 3.9)</li>
+</ol>
