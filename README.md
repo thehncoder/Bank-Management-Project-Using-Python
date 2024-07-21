@@ -16,3 +16,5 @@ This project provides a basic banking system that allows users to create account
 <ol>
   <li>Python 3.x(tested on Python 3.9)</li>
 </ol>
+<h1>Author</h1>
+Harshit Nigam
